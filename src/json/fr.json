@@ -1,0 +1,46 @@
+{
+  "assoTitle":"La Mission de L'asso",
+  "infoAsso":[
+    {
+      "id":"a1",
+      "title":"Promouvoir",
+      "description":"L'asso regroupe des passionnés de glisse, et plus particulièrement de skateboard, qui œuvrent pour la promotion de ce sport au niveau régional."
+    },
+    {
+      "id":"a2",
+      "title":"Transmettre",
+      "description":"Nous proposons des cours pour enfants, ados et adultes. Nous intervenons également dans les écoles pour faire découvrir le skate aux plus jeunes."
+    },
+    {
+      "id":"a3",
+      "title":"Entraîner",
+      "description":"Nous accompagnons nos membres sur les compétitions en les préparant physiquement à donner le meilleur d'eux-mêmes."
+    },
+    {
+      "id":"a4",
+      "title":"Fédération",
+      "description":"L'asso organise tout au long de l'année des évènements autour du skate pour réunir toujours plus de monde autour de cette pratique"
+    }
+  ],
+  "membresTitle":"Les Membres Fondateurs",
+  "membres":[
+    {
+      "id":"a5",
+      "name":"Soraya",
+      "info":"LongBoard",
+      "picture":[{"src":"/assets/soraya.png","alt":"image de soraya"}]
+    },
+    {
+      "id":"a6",
+      "name":"Marc",
+      "info":"Street",
+      "picture":[{"src":"/assets/marc.png","alt":"image de marc"}]
+    },
+    {
+      "id":"a7",
+      "name":"Pedro",
+      "info":"Pool",
+      "picture":[{"src":"/assets/pedro.png","alt":"image de pedro"}]
+    }
+  ]
+}
